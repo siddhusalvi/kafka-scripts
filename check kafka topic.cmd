@@ -1,0 +1,1 @@
+E:\kafka\bin\windows\kafka-topics.bat --describe --topic SENSORDATA --bootstrap-server localhost:9092
